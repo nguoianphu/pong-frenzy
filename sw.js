@@ -5,9 +5,7 @@
 */
 
 const cacheName = 'pongfrenzy-v1.5'; /* Name your cache  */
-const filesToCache = [		     /* we dont need to manually add files to cache */
-  '/pong-frenzy/index.html'
-]
+const filesToCache = ['/pong-frenzy/index.html'] /* we dont need to manually add files to cache */
 // register service worker
 // if service worker API is available
 // if (navigator.serviceWorker) {
