@@ -1,5 +1,5 @@
 # Udemy Course - Making HTML5 Games with Phaser 3
-## Project - Pong F
+## Project - Pong Frenzy
 ### Note 
 * This game is created with Phaser3 library wiht ES6 javascript
 * If you want to build an Android apk file you have to compile ES6 to ES5 using babel
